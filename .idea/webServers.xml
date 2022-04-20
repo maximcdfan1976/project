@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="caaed39d-6e5b-431f-a731-6e0b8f858637" name="Flagmanhotel" url="http://212.109.222.125">
+        <fileTransfer rootFolder="/public_html/wp-content/themes/fltheme" host="212.109.222.125" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
